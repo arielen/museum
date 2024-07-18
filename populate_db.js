@@ -4,9 +4,9 @@ const fs = require("fs");
 // Подключение к базе данных
 const connection = mysql.createConnection({
   host: "localhost",
-  user: "arielen",
+  user: "user",
   database: "museum",
-  password: "deadinside"
+  password: "userpassword"
 });
 
 // Чтение JSON файла
