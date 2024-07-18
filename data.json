@@ -1,0 +1,144 @@
+{
+  "exhibits": [
+    {
+      "id": 1,
+      "title": "Большой горный козёл",
+      "image": "/images/Ритуальные предмет большой «горный козел».jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/Большой конь/Большой конь.fbx"
+    },
+    {
+      "id": 2,
+      "title": "Большой горный козёл 2",
+      "image": "/images/Ритуальные предмет большой «горный козел».jpg",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/Большой конь 2/untitled.fbx"
+    },
+    {
+      "id": 3,
+      "title": "«Оленная» бляха",
+      "image": "/images/Ритуальные предмет «оленная» бляха.jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/большой лось/большой лось.fbx"
+    },
+    {
+      "id": 4,
+      "title": "Нагрудная бляха",
+      "image": "/images/Украшение. Нагрудная бляха.jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/брошка/brosh.fbx"
+    },
+    {
+      "id": 5,
+      "title": "«Оленная» бляха 2",
+      "image": "/images/Ритуальные предмет «оленная» бляха 2.jpg",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/малый лось/малый лось.fbx"
+    },
+    {
+      "id": 6,
+      "title": "Малый горный колёл",
+      "image": "/images/Ритуальные предмет малый «горный козел».jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/Мелкий конь/litle_horse.fbx"
+    },
+    {
+      "id": 7,
+      "title": "Ножик",
+      "image": "/images/Предмет вооружения. Бронзовый кинжал с рукоятью.jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/ножик/knife.fbx"
+    },
+    {
+      "id": 8,
+      "title": "Расческа",
+      "image": "https://dummyimage.com/1205x505",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/расческа/brush.fbx"
+    },
+    {
+      "id": 10,
+      "title": "Наконечник стрелы",
+      "image": "/images/Наконечник стрелы.jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/arhead1/arhead1.fbx"
+    },
+    {
+      "id": 11,
+      "title": "Серьга",
+      "image": "/images/Элемент женского украшения, серьга.jpg",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/earbip1/earbip1.fbx"
+    },
+    {
+      "id": 12,
+      "title": "Бляшка-амулет",
+      "image": "/images/Деталь одежды, ритуальный предмет. Бляшка-амулет.jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/horsesB12/b12.fbx"
+    },
+    {
+      "id": 13,
+      "title": "Бляшка-амулет 2",
+      "image": "/images/Деталь одежды, ритуальный предмет. Бляшка-амулет в виде двух конских головок.jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/horsesB34/b34.fbx"
+    },
+    {
+      "id": 14,
+      "title": "Поясная рамчатая пряжка 2",
+      "image": "/images/Деталь одежды. Поясная рамчатая пряжка 2.jpg",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/pb1/pb1.fbx"
+    },
+    {
+      "id": 15,
+      "title": "Наконечник топорика",
+      "image": "/images/Орудие труда, наконечник топорика.jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/uh1/uh1.fbx"
+    },
+    {
+      "id": 16,
+      "title": "Ярусная подвеска",
+      "image": "/images/Украшение. Ярусная подвеска .jpg",
+      "description": "ОПИСАНИЕ",
+      "model": "/Models/unkbs12/unkbs12.fbx"
+    },
+    {
+      "id": 17,
+      "title": "Деталь одежды",
+      "image": "/images/Деталь одежды.jpg",
+      "description": "1ОПИСАНИЕ",
+      "model": "/Models/unkC12/с12.fbx"
+    },
+    {
+      "id": 18,
+      "title": "Поясная рамчатая пряжка",
+      "image": "/images/Деталь одежды. Поясная рамчатая пряжка.jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/unkC34/с34.fbx"
+    },
+    {
+      "id": 19,
+      "title": "Подвеска лапчатая",
+      "image": "/images/Женское украшение.  Подвеска лапчатая.jpg",
+      "description": "2ОПИСАНИЕ",
+      "model": "/Models/unkr12/unkr12.fbx"
+    },
+    {
+      "id": 20,
+      "title": "Unkz12",
+      "image": "https://dummyimage.com/1205x505",
+      "description": "8ОПИСАНИЕ",
+      "model": "/Models/unkz12/unkz12.fbx"
+    },
+    {
+      "id": 21,
+      "title": "Зеркало",
+      "image": "https://dummyimage.com/1205x505",
+      "description": "8ОПИСАНИЕ",
+      "model": "/Models/mirror/mirror.fbx"
+    }
+  ]
+}
