@@ -52,7 +52,7 @@
     {
       "id": 8,
       "title": "Расческа",
-      "image": "https://dummyimage.com/1205x505",
+      "image": "/images/Расческа.png",
       "description": "1ОПИСАНИЕ",
       "model": "/Models/расческа/brush.fbx"
     },
@@ -129,14 +129,14 @@
     {
       "id": 20,
       "title": "Unkz12",
-      "image": "https://dummyimage.com/1205x505",
+      "image": "/images/Unkz12.png",
       "description": "8ОПИСАНИЕ",
       "model": "/Models/unkz12/unkz12.fbx"
     },
     {
       "id": 21,
       "title": "Зеркало",
-      "image": "https://dummyimage.com/1205x505",
+      "image": "/images/Зеркало.png",
       "description": "8ОПИСАНИЕ",
       "model": "/Models/mirror/mirror.fbx"
     }
