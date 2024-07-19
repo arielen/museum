@@ -3,7 +3,7 @@ const fs = require("fs");
 
 // Подключение к базе данных
 const connection = mysql.createConnection({
-  host: "localhost",
+  host: "127.0.0.1",
   user: "user",
   database: "museum",
   password: "userpassword"

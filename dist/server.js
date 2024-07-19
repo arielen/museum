@@ -8,13 +8,12 @@ const PORT = process.env.PORT || 3000;
 const cors = require('cors');
 app.use(cors());
 
-
 // Serve static files
 app.use(express.static(path.join(__dirname, '.')));
 
 // Create MySQL connection
 const connection = mysql.createConnection({
-  host: process.env.MYSQL_HOST || "localhost",
+  host: process.env.MYSQL_HOST || "127.0.0.1",
   user: process.env.MYSQL_USER || "user",
   database: process.env.MYSQL_DATABASE || "museum",
   password: process.env.MYSQL_PASSWORD || "userpassword"

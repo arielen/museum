@@ -2,7 +2,7 @@ const mysql = require("mysql");
 
 // Create connection to MySQL server (not to any specific database yet)
 const connection = mysql.createConnection({
-  host: "localhost",
+  host: "127.0.0.1",
   user: "root",  // Assumes you have root access; change if needed
   password: "rootpassword"  // Replace with the root password or any admin password
 });
@@ -36,7 +36,7 @@ connection.connect(err => {
 
       // Connect to the newly created database
       const dbConnection = mysql.createConnection({
-        host: "localhost",
+        host: "127.0.0.1",
         user: "user",
         password: "userpassword",
         database: "museum"
